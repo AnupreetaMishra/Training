@@ -1,0 +1,6 @@
+C:\Users\anupreeta.mishra\Documents\Visual Studio 2013\Projects\Madhvi\Madhvi\obj\Debug\Madhvi.csprojResolveAssemblyReference.cache
+C:\Users\anupreeta.mishra\Documents\Visual Studio 2013\Projects\Madhvi\Madhvi\bin\Madhvi.dll.config
+C:\Users\anupreeta.mishra\Documents\Visual Studio 2013\Projects\Madhvi\Madhvi\bin\Madhvi.dll
+C:\Users\anupreeta.mishra\Documents\Visual Studio 2013\Projects\Madhvi\Madhvi\bin\Madhvi.pdb
+C:\Users\anupreeta.mishra\Documents\Visual Studio 2013\Projects\Madhvi\Madhvi\obj\Debug\Madhvi.dll
+C:\Users\anupreeta.mishra\Documents\Visual Studio 2013\Projects\Madhvi\Madhvi\obj\Debug\Madhvi.pdb
